@@ -69,6 +69,7 @@ We will send you an email to choose a Real-World project. If you face any diffic
 * Deploy the frontend to AWS.
 * Document your CI/CD workflow in the README.
 
+
 ---
 
 **Submission Requirements**
